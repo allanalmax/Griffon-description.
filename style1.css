@@ -1,0 +1,87 @@
+#navbar{
+    position: fixed;
+    border-right: solid;
+    height: 100%;
+    width: 200px;
+    display: block;
+}
+.navbar-ul{
+    height: 80%;
+    padding-top: 10px;
+    list-style-type: none;
+}
+.nav-link{
+    color:grey;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+}
+#main-doc{
+    background-color:rgba(236, 154, 154, 0.678);
+    position: absolute;
+    margin-left: 250px;
+    padding: 20px;
+    margin-bottom:100px;
+}
+.main-section{
+    font-style: unset;
+    font-family: cursive;  
+}
+.header{
+    text-align:center;
+    font-size: 30px;
+    color: red;
+}
+#introduction{
+    background-image:url(images/mine\ 112.jpg);
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color: brown;
+}
+#sections{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color:chocolate;
+}
+#photography{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color:darkorchid;
+}
+#fashion{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color:chocolate;
+}
+#production{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color: blueviolet;
+}
+#products_and_services{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color:darkgreen;
+}
+#sales{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color:indigo;
+}
+#aims{
+    text-align: left;
+    margin: 0px;
+    font-size: 20px;
+    color:sienna;
+}
+.table{
+    border: solid;
+    border-color: red;
+}
